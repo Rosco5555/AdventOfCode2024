@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1", "Day1\Day1.csproj", "{CFE2688B-BB7F-48D4-8B9D-DBFB0632A443}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utils", "Utils", "{ACA4D1D5-47CF-4155-8B61-06EC025AC077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2", "Day2\Day2.csproj", "{409C23AB-C8CD-4FDB-84CC-F8AC5DB91940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{CF69A11D-E24A-4129-BCFC-232EDD10EA35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE2688B-BB7F-48D4-8B9D-DBFB0632A443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE2688B-BB7F-48D4-8B9D-DBFB0632A443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE2688B-BB7F-48D4-8B9D-DBFB0632A443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE2688B-BB7F-48D4-8B9D-DBFB0632A443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{409C23AB-C8CD-4FDB-84CC-F8AC5DB91940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409C23AB-C8CD-4FDB-84CC-F8AC5DB91940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409C23AB-C8CD-4FDB-84CC-F8AC5DB91940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409C23AB-C8CD-4FDB-84CC-F8AC5DB91940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF69A11D-E24A-4129-BCFC-232EDD10EA35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF69A11D-E24A-4129-BCFC-232EDD10EA35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF69A11D-E24A-4129-BCFC-232EDD10EA35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF69A11D-E24A-4129-BCFC-232EDD10EA35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

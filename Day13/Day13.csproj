@@ -8,11 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Helpers\Helpers.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="obj\Debug\net8.0\" />
+      <PackageReference Include="MathNet.Numerics" Version="6.0.0-beta1" />
     </ItemGroup>
 
 </Project>
